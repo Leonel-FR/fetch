@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Iphone 15",
+    "precio": 30000,
+    "img": "/img/iphone15.jpeg",
+    "descripcion": "El celular mas caro y que no vale la pena",
+    "stock": 1,
+    "categoria": "Apple"
+  },
+  {
+    "id": 2,
+    "nombre": "Samsung Z flip 4",
+    "precio": 18000,
+    "img": "/img/zflip.jpg",
+    "descripcion": "El celular que se rompe de tanto doblarlo",
+    "stock": 20,
+    "categoria": "Samsung"
+  },
+  {
+    "id": 3,
+    "nombre": "Iphone 13 pro max",
+    "precio": 25000,
+    "img": "/img/iphone13prom.jpeg",
+    "descripcion": "Un celular con buena camara",
+    "stock": 12,
+    "categoria": "Apple"
+  },
+  {
+    "id": 4,
+    "nombre": "Xiaomi cualquiera",
+    "precio": 5000,
+    "img": "/img/xiaomi.jpeg",
+    "descripcion": "Es barato y le dura la bateria",
+    "stock": 17,
+    "categoria": "Xiaomi"
+  },
+  {
+    "id": 5,
+    "nombre": "Huawei mate50",
+    "precio": 17000,
+    "img": "/img/huawei.jpeg",
+    "descripcion": "Viene con chip chino que te espia",
+    "stock": 8,
+    "categoria": "Huawei"
+  }
+]
